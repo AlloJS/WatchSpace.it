@@ -268,7 +268,8 @@ Ref: <?= htmlspecialchars($watch['reference']) ?>
 
 <!-- FOOTER -->
 <footer class="footer text-center">
-<h5>WatchSpecs.io</h5>
+© 2026 WatchSpace - Design by Alice
+© 2026 WatchSpace - Collab by Angelo
 <p>Watch encyclopedia database</p>
 </footer>
 

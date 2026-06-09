@@ -115,7 +115,7 @@ body{background:#f8f9fa;}
 <section class="hero">
 <div class="container text-center">
 
-<h1>⌚ WatchSpecs</h1>
+<h1>WatchSpace.io - Sviluppato da Angelo</h1>
 <p class="lead mb-4">Watch encyclopedia database</p>
 
 <form method="GET">
@@ -268,7 +268,8 @@ Ref: <?= htmlspecialchars($watch['reference']) ?>
 
 <!-- FOOTER -->
 <footer class="footer text-center">
-© 2026 WatchSpace - Design by Alice
+© 2026 WatchSpace - Design by Alice Visani
+© 2026 WatchSpace - Collab by Angelo
 <p>Watch encyclopedia database</p>
 </footer>
 
